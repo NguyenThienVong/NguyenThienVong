@@ -34,6 +34,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
        alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+       alt="Java" width="45" height="45"/>
 </p>
 
 **Python** · Data Processing · Automation · Scripting
