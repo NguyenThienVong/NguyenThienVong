@@ -5,143 +5,166 @@
 </h3>
 
 <p align="center">
-  I’m building my foundation in Data Engineering by working on
-  practical data pipelines, ETL/ELT workflows, databases, and
-  data warehousing projects.
+  Building practical Data Engineering projects with Python, SQL,
+  ETL/ELT pipelines, Data Warehousing, and Cloud technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 Currently preparing for a career in **Data Engineering**
-- 🐍 Using **Python** for data processing, automation, and ETL
-- 🗄️ Working with **SQL, SQL Server, and PostgreSQL**
-- 🔄 Building and learning to design **ETL / ELT data pipelines**
-- 🧹 Practicing **data cleaning, transformation, and data quality**
-- 🏗️ Learning **Data Warehouse concepts and dimensional modeling**
-- 🐳 Exploring **Docker** for reproducible data environments
-- ⚙️ Currently learning **Apache Airflow, dbt, and Apache Spark**
-- ☁️ Exploring **Cloud Data Engineering**
-- 📚 Building hands-on projects to strengthen my Data Engineering skills
+* 🎯 Aspiring **Data Engineer**
+* 🐍 Building data pipelines with **Python**
+* 🗄️ Working with **SQL, PostgreSQL, SQL Server**
+* 🔄 Practicing **ETL / ELT, data transformation & data migration**
+* 🏗️ Learning **Data Warehouse & Dimensional Modeling**
+* ⚙️ Learning **Apache Airflow & dbt** for pipeline orchestration
+* ⚡ Exploring **Apache Spark / PySpark** for distributed data processing
+* 🐳 Using **Docker** for reproducible data environments
+* ☁️ Exploring **AWS & Cloud Data Engineering**
+* 📚 Building hands-on projects to strengthen my Data Engineering skills
 
 ---
 
-## 🛠️ Data Engineering Skills
+## 🛠️ Data Engineering Stack
 
-### Programming
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-       alt="Java" width="45" height="45"/>
-</p>
-
-**Python** · Data Processing · Automation · Scripting
-
-### SQL & Databases
+### 🐍 Programming & Data Processing
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-       alt="PostgreSQL" width="45" height="45"/>
-
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-       alt="SQL Server" width="45" height="45"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-       alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Airflow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="Spark"/>
 </p>
 
-**SQL** · PostgreSQL · SQL Server · MySQL · Database Design
+`Python` · `Pandas` · `PySpark` · `Apache Spark`
 
-### Data Engineering
+### 🗄️ SQL & Databases
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-       alt="Pandas" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
 </p>
 
-**ETL / ELT** · Data Cleaning · Data Transformation · Data Migration  
-**Data Quality** · Data Pipelines · Data Warehousing · Dimensional Modeling
+`SQL` · `PostgreSQL` · `SQL Server` · `MySQL`
 
-### Tools
+### 🔄 Data Engineering
+
+`ETL` · `ELT` · `Data Pipelines` · `Data Migration`
+`Data Cleaning` · `Data Transformation` · `Data Quality`
+`Data Warehouse` · `Star Schema` · `Dimensional Modeling`
+
+### ⚙️ Data Tools & Orchestration
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git" width="45" height="45"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-       alt="Docker" width="45" height="45"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-       alt="Linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Apache Airflow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 </p>
 
-Git · Docker · Linux
+`Apache Airflow` · `dbt` · `Docker` · `Git` · `Linux`
+
+### ☁️ Cloud & Big Data
+
+`AWS` · `Amazon S3` · `EC2` · `Cloud Data Engineering`
+`Apache Spark` · `PySpark` · `Distributed Data Processing`
+
+### 🌐 Data Sources
+
+`REST API` · `JSON` · `CSV` · `Relational Databases`
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔄 SQL Server → PostgreSQL ETL Pipeline
+### 🔄 SQL Server → PostgreSQL Data Migration Pipeline
 
-A hands-on ETL project focused on migrating data from SQL Server
-to PostgreSQL using Python.
+Python-based ETL pipeline for migrating and validating data between SQL Server and PostgreSQL.
 
-**What I practice:**
+**Highlights:**
 
-- Extracting data from SQL Server
-- Data validation and cleaning
-- Transforming data with Python / Pandas
-- Loading data into PostgreSQL
-- SQL-based data validation
-- Organizing ETL code into reusable components
+* Extract data from SQL Server
+* Transform and clean data with Pandas
+* Load data into PostgreSQL
+* Perform data validation
+* Handle data types and database constraints
 
-**Tech Stack:**  
+**Tech Stack:**
 `Python` `Pandas` `SQL Server` `PostgreSQL` `SQL` `Git`
 
 ---
 
-### 🌐 API → Data Pipeline
+### 🌐 API → Data Lake Pipeline
 
-Building a data pipeline that collects data from REST APIs,
-processes the raw data, and stores structured data for analysis.
+Building a pipeline to collect data from REST APIs, process raw data, and store it for downstream analysis.
 
-**Tech Stack:**  
-`Python` `REST API` `Pandas` `SQL` `PostgreSQL`
+**Tech Stack:**
+`Python` `REST API` `JSON` `AWS S3` `Pandas`
+
+**Status:** 🚧 Learning / Building
 
 ---
 
-### ⚙️ Data Pipeline with Airflow
+### ⚙️ ETL Pipeline with Apache Airflow
 
-Learning to orchestrate ETL workflows using Apache Airflow,
-including scheduling, dependencies, logging, and pipeline monitoring.
+Building and orchestrating ETL workflows using Airflow with scheduling, task dependencies, logging, and monitoring.
+
+**Tech Stack:**
+`Python` `Apache Airflow` `PostgreSQL` `Docker`
 
 **Status:** 🚧 Currently Learning
 
-**Tech Stack:**  
-`Python` `Airflow` `PostgreSQL` `Docker`
+---
+
+## 📚 Data Engineering Roadmap
+
+```text
+Python + SQL
+      ↓
+Pandas + Data Processing
+      ↓
+ETL / ELT
+      ↓
+Data Quality
+      ↓
+Data Warehouse
+      ↓
+Airflow + dbt
+      ↓
+Docker + Linux
+      ↓
+Spark + PySpark
+      ↓
+AWS / Cloud
+      ↓
+Advanced Data Engineering
+```
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
 ```text
-Python
-   ↓
-Advanced SQL
-   ↓
-ETL / ELT
-   ↓
-Data Quality
-   ↓
-Data Warehouse
-   ↓
-Apache Airflow
-   ↓
-dbt
-   ↓
-Apache Spark / PySpark
-   ↓
-Cloud Data Engineering
+✓ Python
+✓ SQL
+✓ ETL / ELT
+✓ PostgreSQL
+✓ SQL Server
+✓ Data Migration
+✓ Data Quality
+✓ Data Warehouse
+→ Apache Airflow
+→ dbt
+→ PySpark
+→ AWS / S3
+→ Cloud Data Engineering
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
