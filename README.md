@@ -6,7 +6,7 @@
 
 <p align="center">
   Building practical Data Engineering projects with Python, SQL,
-  ETL/ELT pipelines, Data Warehousing, and Cloud technologies.
+  ETL/ELT, Data Warehousing, Batch & Real-time Data Pipelines.
 </p>
 
 ---
@@ -14,15 +14,17 @@
 ## 👨‍💻 About Me
 
 * 🎯 Aspiring **Data Engineer**
+* ☕ Background in **Java Backend Development**
 * 🐍 Building data pipelines with **Python**
 * 🗄️ Working with **SQL, PostgreSQL, SQL Server**
-* 🔄 Practicing **ETL / ELT, data transformation & data migration**
+* 🔄 Practicing **ETL / ELT, Data Transformation & Data Migration**
 * 🏗️ Learning **Data Warehouse & Dimensional Modeling**
-* ⚙️ Learning **Apache Airflow & dbt** for pipeline orchestration
+* ⚙️ Learning **Apache Airflow & dbt** for workflow orchestration
 * ⚡ Exploring **Apache Spark / PySpark** for distributed data processing
-* 🐳 Using **Docker** for reproducible data environments
+* 📡 Exploring **Apache Kafka & Real-time Data Streaming**
+* 🐳 Using **Docker & Linux** for data environments
 * ☁️ Exploring **AWS & Cloud Data Engineering**
-* 📚 Building hands-on projects to strengthen my Data Engineering skills
+* 📚 Building hands-on projects to grow as a Data Engineer
 
 ---
 
@@ -32,12 +34,12 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Airflow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="Spark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="Apache Spark"/>
 </p>
 
-`Python` · `Pandas` · `PySpark` · `Apache Spark`
+`Python` · `Java` · `Pandas` · `PySpark` · `Apache Spark`
 
 ### 🗄️ SQL & Databases
 
@@ -54,7 +56,7 @@
 `Data Cleaning` · `Data Transformation` · `Data Quality`
 `Data Warehouse` · `Star Schema` · `Dimensional Modeling`
 
-### ⚙️ Data Tools & Orchestration
+### ⚙️ Orchestration & Data Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Apache Airflow"/>
@@ -65,10 +67,20 @@
 
 `Apache Airflow` · `dbt` · `Docker` · `Git` · `Linux`
 
-### ☁️ Cloud & Big Data
+### 📡 Real-time Data Engineering
+
+`Apache Kafka` · `Kafka Producers / Consumers`
+`Real-time Data Streaming` · `Event-driven Pipelines`
+`Stream Processing` · `Kafka → Spark`
+
+### ⚡ Big Data
+
+`Apache Spark` · `PySpark` · `Distributed Data Processing`
+`Batch Processing` · `Stream Processing`
+
+### ☁️ Cloud
 
 `AWS` · `Amazon S3` · `EC2` · `Cloud Data Engineering`
-`Apache Spark` · `PySpark` · `Distributed Data Processing`
 
 ### 🌐 Data Sources
 
@@ -82,14 +94,6 @@
 
 Python-based ETL pipeline for migrating and validating data between SQL Server and PostgreSQL.
 
-**Highlights:**
-
-* Extract data from SQL Server
-* Transform and clean data with Pandas
-* Load data into PostgreSQL
-* Perform data validation
-* Handle data types and database constraints
-
 **Tech Stack:**
 `Python` `Pandas` `SQL Server` `PostgreSQL` `SQL` `Git`
 
@@ -97,7 +101,7 @@ Python-based ETL pipeline for migrating and validating data between SQL Server a
 
 ### 🌐 API → Data Lake Pipeline
 
-Building a pipeline to collect data from REST APIs, process raw data, and store it for downstream analysis.
+Building a pipeline that collects data from REST APIs, processes raw data, and stores data for downstream analysis.
 
 **Tech Stack:**
 `Python` `REST API` `JSON` `AWS S3` `Pandas`
@@ -108,10 +112,37 @@ Building a pipeline to collect data from REST APIs, process raw data, and store 
 
 ### ⚙️ ETL Pipeline with Apache Airflow
 
-Building and orchestrating ETL workflows using Airflow with scheduling, task dependencies, logging, and monitoring.
+Building and orchestrating ETL workflows with scheduling, task dependencies, logging, and monitoring.
 
 **Tech Stack:**
 `Python` `Apache Airflow` `PostgreSQL` `Docker`
+
+**Status:** 🚧 Currently Learning
+
+---
+
+### 📡 Real-time Data Pipeline with Kafka
+
+Learning to build real-time data pipelines using Kafka Producers and Consumers, with stream processing for continuously arriving data.
+
+**Pipeline:**
+
+```text
+Data Source
+    ↓
+Kafka Producer
+    ↓
+Apache Kafka
+    ↓
+Kafka Consumer
+    ↓
+Spark / PySpark
+    ↓
+Data Lake / Data Warehouse
+```
+
+**Tech Stack:**
+`Python` `Apache Kafka` `PySpark` `Docker`
 
 **Status:** 🚧 Currently Learning
 
@@ -134,6 +165,8 @@ Airflow + dbt
       ↓
 Docker + Linux
       ↓
+Kafka + Real-time Streaming
+      ↓
 Spark + PySpark
       ↓
 AWS / Cloud
@@ -154,8 +187,11 @@ Advanced Data Engineering
 ✓ Data Migration
 ✓ Data Quality
 ✓ Data Warehouse
+
 → Apache Airflow
 → dbt
+→ Apache Kafka
+→ Real-time Data Streaming
 → PySpark
 → AWS / S3
 → Cloud Data Engineering
@@ -163,8 +199,6 @@ Advanced Data Engineering
 
 ---
 
-## 📫 Connect With Me
-
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  <i>From Backend Development to Data Engineering — Building, Learning, and Growing.</i>
 </p>
